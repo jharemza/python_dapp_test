@@ -1,2 +1,2 @@
 # python_dapp_test
- A fist python dapp.
+ A first python dapp.
